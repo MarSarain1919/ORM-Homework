@@ -27,3 +27,5 @@ Sequelize
 Insomnia Core
 
 Walkthrough:
+
+<https://drive.google.com/file/d/10o5wWeW6Nmhmbixp-8YQHmhbWvUTG0wN/view?usp=sharing>
